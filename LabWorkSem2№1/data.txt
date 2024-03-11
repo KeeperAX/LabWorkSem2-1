@@ -1,0 +1,8 @@
+
+Students:	student: 1	student: 2	
+FullName:	Alex		magamed		
+Gender:		man		man		
+Group Number:	3373		3370		
+GroupList:	20		12		
+Exam scores:	4 4 4 		4 4 4 		
+Test scores:	3 4 5 2 3 	5 5 5 5 5 	
